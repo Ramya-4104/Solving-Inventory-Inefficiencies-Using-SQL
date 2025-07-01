@@ -18,4 +18,5 @@ ERD:
 ![image](https://github.com/user-attachments/assets/e32e4140-5212-44db-93aa-457067a15d0a)
 
 Power BI Dahboard:
-![Screenshot 2025-06-27 164021](https://github.com/user-attachments/assets/f3f6bed1-7d32-4508-86ee-e986182be22e)
+![Screenshot 2025-07-01 195131](https://github.com/user-attachments/assets/19cbcbfa-032e-4b05-810e-823da50a8f4c)
+
